@@ -13,3 +13,48 @@ body {
 }
 
 
+
+
+
+
+
+
+/* navbar st */
+.navbar{
+    /* max-width: 1440px;
+    margin: 0 auto; */
+    margin: 50px 0 50px 0;
+}
+.navbar_container{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.logo h2{
+    font-size: 28px;
+    font-weight: 800;
+    color: #0D1321;
+}
+
+.btn button{
+    padding: 17px 24px;
+    border-radius: 8px;
+    border: 1px solid #0D1321;
+    opacity: 0.8;
+}
+
+.btn button a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #0D1321;
+}
+
+
+.banner{}
+.banner_container{
+    
+}
