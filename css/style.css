@@ -14,9 +14,9 @@ body {
 
 /* navbar st */
 .navbar {
-  /* max-width: 1440px;
-    margin: 0 auto; */
-  margin: 50px 0 50px 0;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 20px 0;
 }
 .navbar_container {
   max-width: 1140px;
@@ -526,10 +526,28 @@ body {
 }
 
 .contact_form .input_btn a {
-    text-decoration: none;
+  text-decoration: none;
   color: #0d1321;
   font-family: "Azeret Mono";
   font-size: 15px;
   font-weight: 600;
+}
+
+#foot_social {
+  background: rgba(13, 19, 33, 0.03);
+  padding: 20px;
+}
+
+.social_container {
+  width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.social_icons {
+  display: flex;
+  gap: 20px;
 }
 /* footer part ed */
