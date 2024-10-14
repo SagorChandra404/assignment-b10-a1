@@ -102,3 +102,154 @@ body {
   font-weight: 600;
 }
 /* banner end */
+
+/* why dev section st */
+#why_dev {
+  width: 1440px;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.02);
+  padding: 80px;
+  margin: 100px auto;
+}
+
+.why_dev_title {
+  text-align: center;
+}
+
+.why_dev_title h2 {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.why_dev_title p {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding-top: 30px;
+}
+
+.contant_box {
+  margin-top: 80px;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #fff 0%, rgba(255, 255, 255, 0) 100%);
+  display: flex;
+  justify-content: space-between;
+  padding: 48px;
+}
+
+.contant_box .left_contant h3 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.contant_box .left_contant p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding: 24px 0 32px 0;
+}
+
+.contant_box .left_contant .btn_2 {
+  padding: 12px 20px;
+  border: 1px solid #0d1321;
+  opacity: 0.7;
+}
+
+.contant_box .left_contant .btn_2 a {
+  text-decoration: none;
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.contant_box_2 {
+  margin-top: 80px;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #fff 0%, rgba(255, 255, 255, 0) 100%);
+  display: flex;
+  gap: 80px;
+  padding: 48px;
+}
+
+.contant_box_2 .right_contant h3 {
+  color: rgba(13, 19, 33, 0.7);
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.contant_box_2 .right_contant p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding: 24px 0 32px 0;
+}
+
+.contant_box_2 .right_contant .btn_2 {
+  padding: 12px 20px;
+  border: 1px solid #0d1321;
+  opacity: 0.7;
+}
+
+.contant_box_2 .right_contant .btn_2 a {
+  text-decoration: none;
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* why dev section ed */
+
+/* my_Inspiration st */
+#my_Inspiration {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+#my_Inspiration .my_Inspiration_title {
+  text-align: center;
+}
+
+#my_Inspiration .my_Inspiration_title h2 {
+  color: #0d1321;
+  text-align: center;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-weight: 800;
+}
+
+#my_Inspiration .my_Inspiration_title p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding-top: 30px;
+}
+
+
+#my_Inspiration .inspiration_video{
+    margin-top: 90px;
+}
+
+/* my_Inspiration ed */
