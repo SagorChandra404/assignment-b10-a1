@@ -247,9 +247,144 @@ body {
   padding-top: 30px;
 }
 
-
-#my_Inspiration .inspiration_video{
-    margin-top: 90px;
+#my_Inspiration .inspiration_video {
+  margin-top: 90px;
 }
 
 /* my_Inspiration ed */
+
+/* my_target st */
+#my_target {
+  width: 1440px;
+  margin: 100px auto;
+}
+
+#my_target .my_target_title {
+  text-align: center;
+}
+
+#my_target .my_target_title h3 {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 32px;
+  font-weight: 800;
+}
+
+#my_target .my_target_title p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 30px;
+  opacity: 0.7;
+}
+
+.card_skill {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.card_skill .my_skills {
+  width: 400px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  padding: 40px;
+}
+
+.card_skill .my_skills h4 {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 800;
+  padding: 24px 0;
+}
+
+.card_skill .my_skills p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding-bottom: 24px;
+}
+
+.card_skill .my_skills .hyper_text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/*  */
+.card_skill .my_skills_2 {
+  width: 400px;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+  padding: 40px;
+}
+
+.card_skill .my_skills_2 h4 {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 800;
+  padding: 24px 0;
+}
+
+.card_skill .my_skills_2 p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding-bottom: 24px;
+}
+
+.card_skill .my_skills_2 .hyper_text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/*  */
+.card_skill .my_skills_3 {
+  width: 400px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+  padding: 40px;
+}
+
+.card_skill .my_skills_3 h4 {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 24px;
+  font-weight: 800;
+  padding: 24px 0;
+}
+
+.card_skill .my_skills_3 p {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.7;
+  padding-bottom: 24px;
+}
+
+.card_skill .my_skills_3 .hyper_text {
+  color: #0d1321;
+  font-family: "Azeret Mono";
+  font-size: 16px;
+  font-weight: 700;
+}
+/* my_target ed */
+
+
+
+/*  */
